@@ -1,0 +1,1 @@
+this.ola2='Opa legal, o this também funciona como um exports'
